@@ -1,8 +1,8 @@
 // modules
-const names = require('./part-4-names');
-const sayHi = require('./part-5-utils');
-const data = require('./part-6-alt-flavour');
-require('./part-7-mind-grenade');
+const names = require('./part-04-names');
+const sayHi = require('./part-05-utils');
+const data = require('./part-06-alt-flavour');
+require('./part-07-mind-grenade');
 console.log(names);
 console.log(sayHi);
 sayHi('General Kenobi');
